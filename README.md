@@ -10,3 +10,14 @@ Prove him Right
 <img width="64" height="64" alt="down_key" src="https://github.com/user-attachments/assets/d477d700-e154-4b2e-8c5d-e71f3c482429" />
 <img width="64" height="64" alt="bluewirecut_bomb" src="https://github.com/user-attachments/assets/1004cda5-07b2-44ee-93f9-2b2d568da62e" />
 
+# How To play
+* Install the Defuse Folder.
+* open it and run .exe
+
+
+#Contribution
+If you want to contribute or make this project better contact me at slack @zincx_high
+
+# Status
+It is still development expect bugs and visual bugs
+
