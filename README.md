@@ -19,9 +19,9 @@ If you want to contribute or make this project better contact me at slack @zincx
 
 # Controls
 It has three stages every stage gets harder 
-The first stage: Press the right arrow keys to gain the second.
-The second stage: answer the questions given to gain or lose time.
-The third stage: Press the OSU perfectly to move to the next stage.
+* The first stage: Press the right arrow keys to gain the second.
+* The second stage: answer the questions given to gain or lose time.
+* The third stage: Press the OSU perfectly to move to the next stage.
 
 # Status
 It is still development expect bugs and visual bugs
