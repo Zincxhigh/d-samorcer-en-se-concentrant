@@ -9,10 +9,7 @@ Prove him Right
 <img width="64" height="64" alt="idle_bomb" src="https://github.com/user-attachments/assets/d3f24a96-76da-42e8-b30d-268e6e5d14b5" />
 <img width="64" height="64" alt="down_key" src="https://github.com/user-attachments/assets/d477d700-e154-4b2e-8c5d-e71f3c482429" />
 <img width="64" height="64" alt="bluewirecut_bomb" src="https://github.com/user-attachments/assets/1004cda5-07b2-44ee-93f9-2b2d568da62e" />
-<img width="300" height="200" alt="monster_attack_place_out" src="https://github.com/user-attachments/assets/4b93261f-77f6-4685-bef4-3cd7871ca4f6" />
 <img width="1366" height="768" alt="monster_attack_place" src="https://github.com/user-attachments/assets/dcdf0ed5-1fc8-4718-bd54-1b61c8decda2" />
-<img width="64" height="64" alt="mainmenu" src="https://github.com/user-attachments/assets/e5e85c2c-8ac3-4811-a604-6aab45146911" />
-
 
 # How To play (▶️)
 * Go to itch.io to play it.
