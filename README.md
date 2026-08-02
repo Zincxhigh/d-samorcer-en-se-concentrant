@@ -11,13 +11,26 @@ Prove him Right
 <img width="64" height="64" alt="bluewirecut_bomb" src="https://github.com/user-attachments/assets/1004cda5-07b2-44ee-93f9-2b2d568da62e" />
 
 # How To play
-* Install the Defuse Folder.
-* open it and run .exe
-
-
-#Contribution
+* Go to itch.io to play it.
+* Or click this link()
+  
+# Contribution
 If you want to contribute or make this project better contact me at slack @zincx_high
+
+# Controls
+It has three stages every stage gets harder 
+The first stage: Press the right arrow keys to gain the second.
+The second stage: answer the questions given to gain or lose time.
+The third stage: Press the OSU perfectly to move to the next stage.
 
 # Status
 It is still development expect bugs and visual bugs
+
+# SUBMITED TO THE GMTK JAM
+This project was done for my first jam ever it lacks alot of aspects but due to short time I couldnt make the gamplay more fun
+will improve in the future.
+
+# Indie-Game theme
+This project fits this theme bec the game is made by a single person from the sprites all they way to the music anything in it besides some of ideas are made by me so for that reason it fits the theme
+
 
