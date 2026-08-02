@@ -1,4 +1,4 @@
-#                d-samorcer-en-se-concentrant
+# désamorcer en se concentrant
 
 A game about defusing a bomb but the french guy thinks he can do it while distracted.
 Prove him Right
