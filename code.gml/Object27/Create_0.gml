@@ -1,0 +1,1 @@
+audio_play_sound(background528322,1,true)
