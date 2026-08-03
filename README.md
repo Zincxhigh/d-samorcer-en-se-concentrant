@@ -3,7 +3,7 @@
 A game about defusing a bomb but the french guy thinks he can do it while distracted.
 Prove him Right
 
-#SPRITES
+#Sprites
 
 <img width="64" height="64" alt="diffusing_man" src="https://github.com/user-attachments/assets/a59e3775-f888-4647-b572-e1a80a99df69" />
 <img width="64" height="64" alt="idle_bomb" src="https://github.com/user-attachments/assets/d3f24a96-76da-42e8-b30d-268e6e5d14b5" />
@@ -33,5 +33,12 @@ will improve in the future.
 
 # Indie-Game theme (🪷)
 This project fits this theme bec the game is made by a single person from the sprites all they way to the music anything in it besides some of ideas are made by me so for that reason it fits the theme
+
+# Lapse
+* https://lapse.hackclub.com/user/@zincx_high
+* https://lapse.hackclub.com/timelapse/hrgi8-A66j6c Seasion 4
+* https://lapse.hackclub.com/timelapse/MJ1aR3GfXjoz Seasion 3
+* https://lapse.hackclub.com/timelapse/NPxo57cveXe3 Seasion 2
+* https://lapse.hackclub.com/timelapse/zd1czriNNXUs Seasion 1
 
 
