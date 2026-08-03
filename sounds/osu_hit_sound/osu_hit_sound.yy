@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"osu_hit_sound",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.9016042,
+  "exportDir":"",
+  "name":"osu_hit_sound",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":48000,
+  "soundFile":"osu_hit_sound.mp3",
+  "volume":1.0,
+}
